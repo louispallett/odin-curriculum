@@ -14,7 +14,7 @@ This section contains a general overview of topics that you will learn in this l
 
 ### A Git workflow for open source contribution
 
-Let's say you want to contribute to the [repo that houses our curriculum content](https://github.com/TheOdinProject/curriculum/)
+Let's say you want to contribute to the [repo that houses our curriculum content](https://github.com/TheOdinProject/curriculum/).
 
 How do you contribute when you do not have write access to the repository? Below is a production-ready workflow that is actually used by contributors to this website. We'll assume here that you have commented on an [open issue on our repo](https://github.com/TheOdinProject/curriculum/issues) and that it has been assigned to you.
 
